@@ -38,7 +38,7 @@ input[type=text] {
     padding: 10px;
     background: crimson;
     color: #ffffff;
-    border-radius: 2px;
+    border-radius: 4px;
   }
 
   form{
