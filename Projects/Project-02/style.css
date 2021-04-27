@@ -43,4 +43,10 @@ input[type=text] {
     color: #ffffff;
     border-radius: 2px;
   }
+
+  form{
+    background: #ffffff;
+    padding: 20px 10px;
+    border-radius: 2px;
+  }
   
