@@ -35,3 +35,12 @@ input[type=text] {
     box-shadow:0 0 10px 4px crimson;
     width: 100%;
   }
+
+  .submit-button {
+    width: 100%;
+    padding: 10px;
+    background: crimson;
+    color: #ffffff;
+    border-radius: 2px;
+  }
+  
