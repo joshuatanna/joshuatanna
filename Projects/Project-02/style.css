@@ -50,6 +50,11 @@ input[type=text] {
     margin-top: 10px;
   }
 
+  #submit:hover{
+    background-color: rgb(180, 47, 73); /* Green */
+    color: white;
+  }
+
   form{
     background: #ffffff;
     padding: 20px 10px;
