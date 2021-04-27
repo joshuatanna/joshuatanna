@@ -4,13 +4,17 @@ body{
     font-size: 1rem;
     line-height: 1.2;
     margin: 0;
-    background-color: darkcyan;
-       
-    }
+           
+}
 
 *, *:before, *:after {
     box-sizing: border-box;
-  }
+}
+
+.title, .description{
+    text-align: center;
+
+ } 
 
 .container{
     border-radius: 5px;
@@ -43,6 +47,7 @@ input[type=text] {
     background: crimson;
     color: #ffffff;
     border-radius: 4px;
+    margin-top: 10px;
   }
 
   form{
