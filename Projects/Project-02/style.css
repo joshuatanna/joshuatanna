@@ -15,9 +15,23 @@ body{
     padding: 20px;
 }
 
-input{
+input[type=text] {
     padding: 10px;
     margin: 10px 0;
     box-shadow:0 0 15px 4px crimson;
+    width: 100%;
+  }
+
+  input[type=email] {
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow:0 0 15px 4px crimson;
+    width: 100%;
+  }
+
+  input[type=number] {
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow:0 0 10px 4px crimson;
     width: 100%;
   }
