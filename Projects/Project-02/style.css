@@ -5,3 +5,9 @@ body{
     margin: 0;
 }
 
+#container{
+    border-radius: 5px;
+    background-color: cornsilk;
+    padding: 20px;
+}
+
