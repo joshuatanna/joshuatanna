@@ -7,3 +7,18 @@ body{
     margin: 0;
 
 }
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 460px) {
+    h1 {
+      font-size: 3.5rem;
+      line-height: 1.2;
+    }
+  }
+  
+  h2 {
+    font-size: 3.25rem;
+  }
