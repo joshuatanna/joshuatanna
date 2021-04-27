@@ -5,7 +5,9 @@ body{
     margin: 0;
 }
 
-
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
 
 .container{
     border-radius: 5px;
@@ -13,4 +15,8 @@ body{
     padding: 20px;
 }
 
-
+input[type=text] {
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow:0 0 15px 4px crimson;
+  }
