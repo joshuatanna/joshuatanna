@@ -32,7 +32,6 @@ input[type=text] {
   input[type=number] {
     padding: 10px;
     margin: 10px 0;
-    box-shadow:0 0 10px 4px crimson;
     width: 100%;
   }
 
