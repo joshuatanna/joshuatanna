@@ -25,7 +25,10 @@ h1 {
 
   a {
     color: #cf4343;
-    text-decoration: none;
+  }
+
+  a:link{
+      text-decoration: none;
   }
 
   #main {
