@@ -33,7 +33,7 @@ input[type=text] {
     width: 100%;
   }
 
-  .submit{
+  #submit{
     width: 100%;
     padding: 10px;
     background: crimson;
