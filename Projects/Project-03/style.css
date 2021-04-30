@@ -10,7 +10,7 @@ body{
     margin: 0;
 }
 
-#navbar{
+#nav-bar{
     top: 0;
     position: fixed;
     z-index: 100;
