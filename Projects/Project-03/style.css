@@ -9,6 +9,10 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#navbar{
+    top: 0px;
+}
+
 ul{
     list-style-type: none;
     margin: 0;
