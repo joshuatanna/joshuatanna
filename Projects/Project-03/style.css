@@ -48,6 +48,13 @@ li a:hover{
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.logo-container{
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 .hero-text{
