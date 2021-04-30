@@ -9,6 +9,30 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #143d59;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: #f4b41a;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #ffffff;
+}
+
 .flex-container{
     width: 90%;
     margin: 50px auto;
