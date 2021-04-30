@@ -124,7 +124,7 @@ li a:hover{
 }
 
 @media screen and (max-width: 600px) {
-    .row {
+    .flex-container {
       flex-direction: column;
     }
   }
