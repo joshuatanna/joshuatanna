@@ -18,7 +18,7 @@ ul{
 }
 
 li{
-    float: left;
+    float: right;
 }
 
 li a{
@@ -30,7 +30,11 @@ li a{
 }
 
 li a:hover{
-    background-color: #ffffff;
+    background-color: black;
+}
+
+#header-img{
+    width: 60vh;
 }
 
 .flex-container{
