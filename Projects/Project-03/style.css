@@ -12,6 +12,10 @@ body{
 
 #navbar{
     top: 0px;
+    margin:0px auto;
+    left:0px;
+    right:0px;
+
 }
 
 ul{
