@@ -41,3 +41,8 @@ header{
 #main-doc header{
     text-align: left;
 }
+
+code{
+    margin-top: 10px;
+    text-align: center;
+}
