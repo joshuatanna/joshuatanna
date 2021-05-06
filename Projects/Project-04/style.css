@@ -12,3 +12,13 @@ body{
     border-right: solid;
     border-color: black;
 }
+
+#navbar li{
+    list-style: none;
+    border-top: 1px solid cornflowerblue;
+    width: 100%;
+}
+
+#navbar a{
+    text-decoration: none;
+}
