@@ -21,7 +21,7 @@ body{
 }
 
 #navbar a{
-    text-decoration: none;
+    text-decoration: none !important;
     padding: 25px 25px;
 }
 
