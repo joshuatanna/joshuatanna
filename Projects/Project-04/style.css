@@ -25,13 +25,10 @@ body{
     padding: 25px 25px;
 }
 
-a:link{
-    text-decoration: none!important;
-  }
 
 #main-doc{
     position: absolute;
-    margin-left: 285px;
+    margin-left: 300px;
     padding: 10px;
 }
 
@@ -39,4 +36,8 @@ header{
     margin: 15px;
     text-align: center;
     font-size: 35px;
+}
+
+#main-doc header{
+    text-align: left;
 }
