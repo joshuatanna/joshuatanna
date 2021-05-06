@@ -21,13 +21,17 @@ body{
 }
 
 #navbar a{
-    text-decoration: none !important;
+    text-decoration: none;
     padding: 25px 25px;
 }
 
+a:link{
+    text-decoration: none!important;
+  }
+
 #main-doc{
     position: absolute;
-    margin-left: 250px;
+    margin-left: 285px;
     padding: 10px;
 }
 
