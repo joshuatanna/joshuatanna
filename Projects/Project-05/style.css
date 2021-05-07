@@ -103,6 +103,7 @@ h1{
     background-color: #5e60ce;
     color: #fff;
     border-radius: 15px 15px 0px 0px;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .project-body{
@@ -116,7 +117,7 @@ h1{
     display: block;
     color: #fff;
     text-align: center;
-    background-color: #48bfe3);
+    background: #48bfe3;
     margin-top: 30px;
     text-decoration: none;
     padding: 10px 5px;
