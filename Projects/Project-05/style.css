@@ -54,7 +54,7 @@ h1{
 }
 
 h2{
-    font-size: 60px;
+    font-size: 40px;
     color: #48bfe3;
     font-family: 'Bebas Neue', cursive;
     text-align: center;
@@ -73,6 +73,7 @@ h2{
 #projects{
     background: #ffffff;
     text-align: center;
+    padding: 10px 20px;
 }
 
 .project-container{
