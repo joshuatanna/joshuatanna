@@ -33,7 +33,7 @@ li a{
 }
 
 li a:hover{
-    color: #56cfe1;
+    color: #48bfe3;
 }
 
 #welcome-section{
@@ -55,7 +55,7 @@ h1{
 
 #welcome-section p{
     font-family: 'Dosis', sans-serif;
-    color: #56cfe1;
+    color: #48bfe3;
     font-size: 50px;
     text-align: center;
     font-weight: 200;
