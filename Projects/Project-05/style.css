@@ -18,6 +18,19 @@
     margin-right: 15px;
 }
 
+#nav-elements ul{
+    list-style: none;
+}
+
+#nav-elements a{
+    text-decoration: none;
+    color: #dee2ff;
+    display: block;
+    padding: 15px;
+}
+
 #welcome-section{
-    background-color: #a0c4ff;
+    background-color: #dee2ff;
+    width: 100%;
+    height: 100%;
 }
