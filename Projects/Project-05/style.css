@@ -71,4 +71,17 @@ h1{
 }
 
 
+.project-tile{
+    width: 20%;
+    background: #fff;
+    border: 1px solid #ccc;
+    margin-bottom: 50px;
+    transition: 0.3s;
+}
 
+.project-header{
+    text-align: center;
+    padding: 50px 10px;
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    color: #fff;
+}
