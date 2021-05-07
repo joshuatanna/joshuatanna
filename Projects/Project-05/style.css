@@ -12,3 +12,12 @@
     background: #ffffff;
     box-shadow: 0px 1px 10px #999;
 }
+
+.nav-elements{
+    display: flex;
+    margin-right: 15px;
+}
+
+#welcome-section{
+    background-color: #a0c4ff;
+}
