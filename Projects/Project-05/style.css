@@ -100,7 +100,7 @@ h1{
 .project-header{
     text-align: center;
     padding: 50px 10px;
-    background: linear-gradient(to right, #5e60ce, #48bfe3);
+    background: #5e60ce;
     color: #fff;
     border-radius: 15px 15px 0px 0px;
 }
