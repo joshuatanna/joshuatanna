@@ -108,14 +108,15 @@ h1{
 .project-body{
     padding: 30px 20px;
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
 }
 
 .project-body .btn{
     display: block;
     color: #fff;
     text-align: center;
-    background: linear-gradient(to right, #5e60ce, #48bfe3);
+    background-color: #48bfe3);
     margin-top: 30px;
     text-decoration: none;
     padding: 10px 5px;
