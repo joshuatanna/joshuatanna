@@ -53,6 +53,14 @@ h1{
     text-align: center;
 }
 
+h2{
+    font-size: 60px;
+    color: #48bfe3;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
+
 #welcome-section p{
     font-family: 'Dosis', sans-serif;
     color: #48bfe3;
@@ -60,4 +68,29 @@ h1{
     text-align: center;
     font-weight: 200;
 
+}
+
+#projects{
+    background: #ffffff;
+    text-align: center;
+}
+
+.project-container{
+    width: 100%;
+    height: auto;
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+
+.project-tile{
+    width: 20%;
+    height: 300px;
+    background: white;
+    margin: 20px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    
 }
