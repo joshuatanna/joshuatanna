@@ -89,6 +89,7 @@ h1{
     border: 1px solid #ccc;
     margin-bottom: 50px;
     transition: 0.3s;
+    justify-content: stretch;
 }
 
 .project-tile:hover{
