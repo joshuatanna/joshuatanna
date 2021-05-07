@@ -102,7 +102,7 @@ h1{
     padding: 50px 10px;
     background: linear-gradient(to right, #5e60ce, #48bfe3);
     color: #fff;
-    border-radius: 15px 15px;
+    border-radius: 15px 15px 0px 0px;
 }
 
 .project-body{
