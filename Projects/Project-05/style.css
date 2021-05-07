@@ -89,7 +89,7 @@ h1{
     border: 1px solid #ccc;
     margin-bottom: 50px;
     transition: 0.3s;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .project-tile:hover{
@@ -102,6 +102,7 @@ h1{
     padding: 50px 10px;
     background: linear-gradient(to right, #ff416c, #ff4b2b);
     color: #fff;
+    border-radius: 15px;
 }
 
 .project-body{
