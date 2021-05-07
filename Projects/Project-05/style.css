@@ -29,6 +29,7 @@ li a{
     padding: 15px;
     font-family: 'Dosis', sans-serif;
     font-size: 22px;
+    font-weight: 300;
 }
 
 #welcome-section{
@@ -50,8 +51,9 @@ h1{
 
 #welcome-section p{
     font-family: 'Dosis', sans-serif;
-    color: #5390d9;
+    color: #72efdd;
     font-size: 50px;
     text-align: center;
+    font-weight: 200;
 
 }
