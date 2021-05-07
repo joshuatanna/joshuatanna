@@ -28,10 +28,12 @@ li a{
     display: block;
     padding: 15px;
     font-family: 'Dosis', sans-serif;
+    font-size: 30px;
 }
 
 #welcome-section{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     background-color: #dee2ff;
     width: 100%;
@@ -42,4 +44,10 @@ h1{
     font-size: 30px;
     color: #ffffff;
     font-family: 'Bebas Neue', cursive;
+}
+
+#welcome-section p{
+    font-family: 'Dosis', sans-serif;
+    color: #8e9aaf;
+
 }
