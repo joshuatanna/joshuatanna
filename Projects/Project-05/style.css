@@ -24,13 +24,15 @@ ul{
 
 li a{
     text-decoration: none;
-    color: #dee2ff;
+    color: black;
     display: block;
     padding: 15px;
 }
 
 #welcome-section{
+    display: flex;
+    justify-content: center;
     background-color: #dee2ff;
     width: 100%;
-    height: 100%;
+    height: 100vh;
 }
