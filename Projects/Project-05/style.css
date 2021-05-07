@@ -18,11 +18,11 @@
     margin-right: 15px;
 }
 
-#nav-elements ul{
+ul{
     list-style: none;
 }
 
-#nav-elements a{
+li a{
     text-decoration: none;
     color: #dee2ff;
     display: block;
