@@ -53,14 +53,6 @@ h1{
     text-align: center;
 }
 
-#welcome-section h2{
-    font-size: 40px;
-    color: #48bfe3;
-    font-family: 'Bebas Neue', cursive;
-    text-align: center;
-}
-
-
 #welcome-section p{
     font-family: 'Dosis', sans-serif;
     color: #48bfe3;
@@ -70,6 +62,17 @@ h1{
 
 }
 
+#projects{
+    width: 90%;
+    margin: 50px auto;
+}
+
+.projects-header{
+    font-size: 40px;
+    color: #48bfe3;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
 
 .project-tile{
     width: 20%;
